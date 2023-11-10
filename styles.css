@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.title {
+    font-weight: lighter;
+    margin-bottom: 15px
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    height: 500px;
+}
+
+.rating-img {
+    width: 120px;
+    margin-bottom: 8px;
+}
+
+.book{
+    display: flex;
+    width: 900px;
+    margin: 0 auto;
+}
+
+.genre {
+    color: #565959;
+    font-size: 13px;
+}
+
+.cover {
+    margin-right: 15px;
+}
+
+.author{
+    margin-top: 15px; 
+}
+
+.content {
+    margin-left: 15px;
+}
+
+h4 {
+    margin-top: 8px;
+}
+
+a {
+    color: #007185;
+}
+
